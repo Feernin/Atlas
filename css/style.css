@@ -91,6 +91,7 @@ body {
 
 @media (min-width: 1920px) {
     .container {
+        height: 90vh;
         margin: 2em 5em;
     }
 
