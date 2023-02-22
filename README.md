@@ -22,7 +22,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> https://pedrofillipes.github.io/Atlas
+> https://pedrofillipes.github.io/atlas
 
 ## Desenvolvedores/Contribuintes :octocat:
 
