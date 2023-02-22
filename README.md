@@ -26,6 +26,6 @@
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-[<img src="https://avatars.githubusercontent.com/u/117683583?s=400&u=a7f42af702bd8c10f87f21347a0c0530fe083b8e&v=4" width=115><br><sub>Pedro Oliveira</sub>](https://github.com/Feernin)
+[<img src="https://avatars.githubusercontent.com/u/117683583?s=400&u=a7f42af702bd8c10f87f21347a0c0530fe083b8e&v=4" width=115><br><sub>Pedro Oliveira</sub>](https://github.com/pedrofillipes)
 
 Copyright :copyright: 2023 - Atlas.
